@@ -34,3 +34,4 @@ Other Object Detectors using Deep Learning for localization of dataset images ar
 ![object detectors](https://user-images.githubusercontent.com/59302885/173794287-b02c8c2f-ac97-4a53-b329-6b8672dc0c27.PNG)
 
 Thank you all.
+NOTE: ALL THE IMAGES HERE ABOVE ARE HAND DRAWN IN MS-WORD. THERE IS NO OTHER COPYRIGHTED IMAGES EXCLUDING THE NUMPY & OPENCV LOGOS.
