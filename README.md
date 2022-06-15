@@ -5,7 +5,6 @@ If you are a new learner in Python, you must try this project.
 I have done this project in PyCharm Professional Edition. I used OpenCV and Numpy to configure the Object Detection Project.
 ![Numpy](https://user-images.githubusercontent.com/59302885/173791833-4e292e35-511d-4740-a47e-94176b9cd67b.PNG)
 ![Opencv](https://user-images.githubusercontent.com/59302885/173791848-12747249-7978-4d35-891a-e60f897002a1.PNG)
-![Numpy](https://user-images.githubusercontent.com/59302885/173791850-77374f66-0ab8-470b-a1e4-11a03aa4b537.PNG)
 
 Stucture of this project.
 ![Deep Neural Network](https://user-images.githubusercontent.com/59302885/173789672-24805853-81f5-44dc-a8f0-5759f96261de.PNG)
