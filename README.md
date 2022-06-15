@@ -6,7 +6,8 @@ I have done this project in PyCharm Professional Edition. I used OpenCV and Nump
 ![Numpy](https://user-images.githubusercontent.com/59302885/173791833-4e292e35-511d-4740-a47e-94176b9cd67b.PNG)
 ![Opencv](https://user-images.githubusercontent.com/59302885/173791848-12747249-7978-4d35-891a-e60f897002a1.PNG)
 
-Stucture of this project.
+Full Stucture of the above project "OBJECT DETECTION".
+
 ![Deep Neural Network](https://user-images.githubusercontent.com/59302885/173789672-24805853-81f5-44dc-a8f0-5759f96261de.PNG)
 
 The Network Layer that I used is MOBILENETV3.
@@ -23,6 +24,7 @@ To know more about SSD refer this https://towardsdatascience.com/ssd-single-shot
 This above project uses NMS, to understand the topic refer to these images. To know about NMS refer https://www.analyticsvidhya.com/blog/2020/08/selecting-the-right-bounding-box-using-non-max-suppression-with-implementation/
 ![IOU](https://user-images.githubusercontent.com/59302885/173789893-c82ec7fb-192c-48e8-a644-d70d4060b1f3.PNG)
 ![NMS](https://user-images.githubusercontent.com/59302885/173790228-e0a227b2-3677-4399-b76c-cba8c5d44e3b.PNG)
+Example of NON_MAXIMUM SUPPRESSION:-
 ![NMS example](https://user-images.githubusercontent.com/59302885/173792879-33e7d528-1c99-42e4-a7f9-6d8ce5af49c4.PNG)
 
 The full SSD-MobileNetV3 model is
