@@ -1,4 +1,4 @@
-# Object-Detection-using-Deep-Leaning
+# Object-Detection-using-Deep-Learning
 Very easy project for a beginner
 If you are a new learner in Python, you must try this project.
 
