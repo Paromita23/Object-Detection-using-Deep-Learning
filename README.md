@@ -1,6 +1,5 @@
 # Object-Detection-using-Deep-Learning
-Very easy project for a beginner
-If you are a new learner in Python, you must try this project.
+M.Tech Final Year Project done by --Paromita Saha
 
 
 I have done this project in PyCharm Professional Edition. I used OpenCV and Numpy to configure the Object Detection Project.
@@ -43,6 +42,10 @@ The full SSD-MobileNetV3 model is
 
 Other Object Detectors using Deep Learning for localization of dataset images are 
 ![object detectors](https://user-images.githubusercontent.com/59302885/173794287-b02c8c2f-ac97-4a53-b329-6b8672dc0c27.PNG)
+
+
+Very easy project for a beginner
+If you are a new learner in Python, you must try this project.
 
 
 Thank you all.
